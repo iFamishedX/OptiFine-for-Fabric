@@ -11,3 +11,5 @@ _test italic_
 ---
 
 above is bar
+
+<p style="text-align: center;">This text will be centered.</p>
