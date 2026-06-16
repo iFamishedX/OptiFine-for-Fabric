@@ -13,3 +13,5 @@ _test italic_
 above is bar
 
 <p style="text-align: center;">This text will be centered.</p>
+
+<p align="center">This text will be centered on GitHub/GitLab.</p>
